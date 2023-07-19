@@ -33,7 +33,7 @@ Terceira versão do site da empresa fictícia AluraBooks, criado nas versões _m
 - ``CSS3``
 - ``JavaScript``
 - ``NodeJs``
--``json-server``
+- ``json-server``
 
 ✍🏻 Autor
 ---
