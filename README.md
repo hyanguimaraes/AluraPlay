@@ -1,19 +1,40 @@
-<p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
+<h1 align="center">AluraPlay</h1>
 
-<hr>
+![](https://raw.githubusercontent.com/hyanguimaraes/AluraPlay/main/readme/AluraPlay_desktop_finalizado_capa.gif#vitrinedev)
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
+![](https://img.shields.io/github/forks/hyanguimaraes/AluraPlay?style=social) ![](https://img.shields.io/github/last-commit/hyanguimaraes/AluraPlay?style=plastic)
 
-## Tecnologias utilizadas durante o curso
-* Javascript
-* NodeJS
-* Json-server
+📝 Descrição do projeto **ALTERAR**
+---
+Página de categorias mostrando os livros de programação disponíveis para compra na AluraBooks. A página contém botões para filtrar os livros por categoria, ordaná-los por preço ou exibir apenas os livros disponíveis em estoque. Todos os dados dos livros são importados de uma API e a página dinâmica é criada pelo JavaScript.
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+Terceira versão do site da empresa fictícia AluraBooks, criado nas versões _mobile_, _tablet_ e _desktop_. Desta vez, o foco do estudo era conhecer e aplicar os diferentes ***métodos de arrays*** disponíveis, principalmente: **forEach**, **filter**, **sort** e **reduce** para o funcionamento dos botões de filtros e categorias da página que foi criada do zero, para estudo no curso "JavaScript: métodos de array". O projeto foi todo desenvolvido seguindo a metodologia _Mobile first_.
 
-## Screenshots
-![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
-![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
+<h3>✅ Versão mobile 428px 📱</h3>
+
+![](https://raw.githubusercontent.com/hyanguimaraes/AluraPlay/main/readme/AluraPlay_mobile_finalizado.gif)
+
+<h3>✅ Versão tablet 1024px 📱</h3>
+
+![](https://raw.githubusercontent.com/hyanguimaraes/AluraPlay/main/readme/AluraPlay_tablet_finalizado.gif)
+
+<h3>✅ Versão desktop 1728px 🖥️</h3>
+
+![](https://raw.githubusercontent.com/hyanguimaraes/AluraPlay/main/readme/AluraPlay_desktop_finalizado.gif)
+
+
+[🔗 Acesse o projeto](ADICIONAR LINK POSTERIORMENTE)
+
+[📚 Página do curso "JavaScript: Criando requisições" na plataforma Alura](https://cursos.alura.com.br/course/javascript-criando-requisicoes)
+
+🛠️ Tecnologias utilizadas
+---
+- ``HTML5``
+- ``CSS3``
+- ``JavaScript``
+- ``NodeJs``
+-``json-server``
+
+✍🏻 Autor
+---
+ [<img src="https://avatars.githubusercontent.com/u/112709798?s=400&u=bf197a3880a44c701b3303e07c052a74cb8d96b1&v=4" width=115><br><sub>Hyan Nascimento Guimarães</sub>](https://github.com/hyanguimaraes)
