@@ -6,9 +6,10 @@
 
 📝 Descrição do projeto **ALTERAR**
 ---
-Página de categorias mostrando os livros de programação disponíveis para compra na AluraBooks. A página contém botões para filtrar os livros por categoria, ordaná-los por preço ou exibir apenas os livros disponíveis em estoque. Todos os dados dos livros são importados de uma API e a página dinâmica é criada pelo JavaScript.
+Página AluraPlay: Uma espécie de YouTube com vídeos relacionados à programação. A página coleta informações dos vídeos, vindas de uma API usando o método GET e cria, dinamicamente o conteúdo, através de uma lista de objetos. Aqui é possível filtrar os resultados através da barra de pesquisa e até incluir vídeos usando um formulário. 
+Este formulário usa o método POST para incluir na API as informações fornecidas pelo usuário e a página é recarregada com o novo vídeo.
 
-Terceira versão do site da empresa fictícia AluraBooks, criado nas versões _mobile_, _tablet_ e _desktop_. Desta vez, o foco do estudo era conhecer e aplicar os diferentes ***métodos de arrays*** disponíveis, principalmente: **forEach**, **filter**, **sort** e **reduce** para o funcionamento dos botões de filtros e categorias da página que foi criada do zero, para estudo no curso "JavaScript: métodos de array". O projeto foi todo desenvolvido seguindo a metodologia _Mobile first_.
+O foco deste estudo era aprender a criar requisições e tratar possíveis erros. Assim, os arquivos HTML e CSS da página estática foram fornecidos pela Alura para estudo no curso "JavaScript: Criando requisições". O projeto foi todo desenvolvido seguindo a metodologia _Mobile first_.
 
 <h3>✅ Versão mobile 428px 📱</h3>
 
