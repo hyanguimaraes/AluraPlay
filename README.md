@@ -1,10 +1,10 @@
 <h1 align="center">AluraPlay</h1>
 
-![](https://raw.githubusercontent.com/hyanguimaraes/AluraPlay/main/readme/AluraPlay_desktop_finalizado_capa.gif#vitrinedev)
+![](https://raw.githubusercontent.com/hyanguimaraes/AluraPlay/main/readme/AluraPlay_desktop_finalizado.gif#vitrinedev)
 
 ![](https://img.shields.io/github/forks/hyanguimaraes/AluraPlay?style=social) ![](https://img.shields.io/github/last-commit/hyanguimaraes/AluraPlay?style=plastic)
 
-📝 Descrição do projeto **ALTERAR**
+📝 Descrição do projeto
 ---
 Página AluraPlay: Uma espécie de YouTube com vídeos relacionados à programação. A página coleta informações dos vídeos, vindas de uma API usando o método GET e cria, dinamicamente o conteúdo, através de uma lista de objetos. Aqui é possível filtrar os resultados através da barra de pesquisa e até incluir vídeos usando um formulário. 
 Este formulário usa o método POST para incluir na API as informações fornecidas pelo usuário e a página é recarregada com o novo vídeo.
@@ -24,7 +24,9 @@ O foco deste estudo era aprender a criar requisições e tratar possíveis erros
 ![](https://raw.githubusercontent.com/hyanguimaraes/AluraPlay/main/readme/AluraPlay_desktop_finalizado.gif)
 
 
-[🔗 Acesse o projeto](ADICIONAR LINK POSTERIORMENTE)
+[🔗 Acesse o projeto](https://alura-play-two-orpin.vercel.app/index.html)
+[🔗 Acesse o meu portfólio](https://cursos.alura.com.br/vitrinedev/hyangt)
+[🔗 Acesse o meu LinkedIn](https://www.linkedin.com/in/hyanguimaraes/)
 
 [📚 Página do curso "JavaScript: Criando requisições" na plataforma Alura](https://cursos.alura.com.br/course/javascript-criando-requisicoes)
 
