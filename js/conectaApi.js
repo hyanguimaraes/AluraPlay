@@ -1,9 +1,6 @@
-/* CONECTA API */
+/* CONECTA API - Arquivo com todo o código responsável pela conexão com a API.*/
 
-//Arquivo com todo o código responsável pela conexão com a API
-
-
-//Função que conecta com a API e retorna o resultado convertido com JSON
+//Função que conecta com a API e retorna o resultado convertido com JSON.
 async function listaVideos(){
     const conexao = await fetch("http://localhost:3000/videos");
     const conexaoConvertida = await conexao.json();
@@ -11,7 +8,30 @@ async function listaVideos(){
     return conexaoConvertida;
 }
 
-//Exporta a variável
+//Função assíncrona que faz uma conexão com a API e cria uma requisição POST.
+async function criaVideo(titulo, descricao, url, imagem){
+    const conexao = await fetch("http://localhost:3000/videos", {
+        //Altera o método de conexão de GET para POST.
+        method: "POST",
+        headers: {
+            //Especifica o tipo de arquivo que está sendo enviado.
+            "content-type": "application/json"
+        },
+        //Envio de uma requisição de um objeto como string no body.
+        body: JSON.stringify({
+            titulo: titulo,
+            descricao: `${descricao} mil visualizações`,
+            url: url,
+            imagem: imagem
+        })
+    });
+
+    const conexaoConvertida = await conexao.json();
+    return conexaoConvertida;        
+}
+
+//Exporta as vaiáveis
 export const conectaApi = {
-    listaVideos
+    listaVideos,
+    criaVideo
 }
